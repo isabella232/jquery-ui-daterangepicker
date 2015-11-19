@@ -1,3 +1,5 @@
+var moment = require('moment');
+
 /*!
  * jQuery UI date range picker widget
  * Copyright (c) 2015 Tamble, Inc.
